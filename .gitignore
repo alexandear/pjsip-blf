@@ -4,5 +4,9 @@
 *.log
 *.status
 bin/
-build/
-
+*Debug*
+*Release*
+*.user
+.vs/
+*VC.db
+*VC.opendb
